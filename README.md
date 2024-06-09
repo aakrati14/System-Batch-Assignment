@@ -25,7 +25,7 @@ This project is a responsive landing page designed for a mobile application. It 
 -Implemented a dark mode toggle.
 -Added animations using CS.
 
-#######Deployed the project on Vercel (https://vercel.com/)
+#######Deployed the project on Vercel (https://uifry-beta-ten.vercel.app/)
 
 ** Design Reference **
 
